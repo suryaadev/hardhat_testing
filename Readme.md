@@ -1,4 +1,4 @@
-# Hardhat testing
+# Hardhat Testing
 
 Installation
  yarn add hardhat
